@@ -90,3 +90,17 @@ Una vez más click en **Siguiente \>**
 ![](images/Captura%20de%20pantalla%20(26).png)
 
 Ya tenemos instalado Rstudio en nuestro equipo!! 🥳 🥳
+
+Para comprobar que todo esta correcto instalaremos nuestro primer
+paquete
+
+escribiendo lo siguiente en la *consola* y despues la tecla Enter
+
+`install.packages("tidyverse")`
+
+![](images/paquete.gif)
+
+Despues de *varios* segundo ya estara instalado el paquete **tidyverse**
+
+*FELICIDADES!* ya tienes todo lo necesario para comenzar en este mundo
+de *R* 🤗
