@@ -100,7 +100,8 @@ escribiendo lo siguiente en la *consola* y despues la tecla Enter
 
 ![](images/paquete.gif)
 
-Despues de *varios* segundo ya estara instalado el paquete **tidyverse**
+Despues de **varios** segundo ya estará instalado el paquete
+**tidyverse**
 
 *FELICIDADES!* ya tienes todo lo necesario para comenzar en este mundo
 de *R* 🤗
