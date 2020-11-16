@@ -9,8 +9,8 @@ Interactuamos con el lenguaje R. 😉
 Digamos que R(el lenguaje) es el motor y Rstudio son el volante, los
 pedales y palanca de velocidades 🏎️🏎️🏎️🏎️🏎️
 
-Lo primero que haremos sera instalar R-core desde *<a href="https://cran.itam.mx/" class="uri">https://cran.itam.mx/</a>*
--------------------------------------------------------------------------------------------------------------------------
+Lo primero que haremos sera instalar R-core desde *<https://cran.itam.mx/>*
+---------------------------------------------------------------------------
 
 daremos click aquí **Download R for Windows**
 
@@ -20,8 +20,8 @@ Ahora en **install R for the first time.**
 
 ![](images/Captura%20de%20pantalla%20(28).png)
 
-Ahora en **Download R 3.6.1 for Windows** (*la version actual es la
-3.6.1 en noviembre del 2019*)
+Ahora en **Download R 4.0.3 for Windows** (*la version actual es la
+4.0.3 en noviembre del 2020*)
 
 ![](images/Captura%20de%20pantalla%20(22).png)
 
@@ -63,7 +63,7 @@ Ahora toca el turno de Rstudio 😁
 
 Lo primero que haremos sera ir al siguiente enlace
 
-<a href="https://rstudio.com/products/rstudio/download/#download" class="uri">https://rstudio.com/products/rstudio/download/#download</a>
+<https://rstudio.com/products/rstudio/download/#download>
 
 Y descargaremos la versión de Rstudio para windows
 
